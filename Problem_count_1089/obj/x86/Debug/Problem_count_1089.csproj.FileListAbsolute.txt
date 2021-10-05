@@ -1,0 +1,6 @@
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/bin/Debug/Problem_count_1089.exe
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/bin/Debug/Problem_count_1089.pdb
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/obj/x86/Debug/Problem_count_1089.csprojAssemblyReference.cache
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/obj/x86/Debug/Problem_count_1089.csproj.CoreCompileInputs.cache
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/obj/x86/Debug/Problem_count_1089.exe
+/home/laptop/Projects/Problem_count_1089/Problem_count_1089/obj/x86/Debug/Problem_count_1089.pdb
